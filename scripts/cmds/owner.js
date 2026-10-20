@@ -19,20 +19,20 @@ module.exports = {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
 │ 👤 Nᴀᴍᴇ       :
- 亗TOUHID ISLAM
+ ʕ •́؈•̀ ₎𖤍𝐈𝐭_𝐦𝐞_𝐌𝐔 𝐆𝐃 𝐇𝐎☠︎︎
 │🧸 Nɪᴄᴋ       :
-  TOUHID
+  ☕︎𝐌𝐔 𝐆𝐃 𝐇𝐎✌︎ 
 │ 🎂 Aɢᴇ        :
- 19+
+ 🔞
 │ 💘 Rᴇʟᴀᴛɪᴏɴ :
  Sɪɴɢʟᴇ
 │ 🎓 Pʀᴏғᴇssɪᴏɴ :
  Sᴛᴜᴅᴇɴᴛ 
 │ 🏡 Lᴏᴄᴀᴛɪᴏɴ :
- DINAJPUR   
+ 𝐊𝐔𝐑𝐈𝐆𝐑𝐀𝐌   
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
 │ 📞 WhatsApp  :
- wa.me/+8801973061007
+ wa.me/+88017487**586     
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
