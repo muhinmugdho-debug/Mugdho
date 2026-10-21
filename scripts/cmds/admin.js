@@ -35,7 +35,7 @@ module.exports = {
 
 		// ✅ Owners (যারা add/remove করতে পারবে)
 		const OWNER = [
-			"61550481039143"
+			"61573736485396"
 		];
 
 		// ✅ Check: sender owner কিনা
@@ -153,7 +153,7 @@ module.exports = {
 
 				const ownerBox =
 `╭━━━〔 👑 OWNER 〕━━━╮
-│ Name : ×᷼TOUHID☆
+│ Name : ×᷼MUGDHO☆
 │ UID  : ${OWNER.join(", ")}
 ╰━━━━━━━━━━━━━━━━━━━━╯`;
 
