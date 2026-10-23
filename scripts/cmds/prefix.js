@@ -15,7 +15,7 @@ module.exports = {
 	config: {
 		name: "prefix",
 		version: "2.2",
-		author: "Touhid",
+		author: "Mugdho",
 		countDown: 5,
 		role: 0,
 		description: "Change & show bot prefix ",
@@ -124,7 +124,7 @@ module.exports = {
 ┃ 📅 Date   : ${date}
 ┃ 👑 Owner  : ${owner}
 ┃ ⚡ Status : ONLINE
-╰━━━〔 ✨ Powered by TOUHID 〕━━━╯`,
+╰━━━〔 ✨ Powered by Mugdho 〕━━━╯`,
 			attachment: await getStreamFromURL(gif)
 		});
 	}
