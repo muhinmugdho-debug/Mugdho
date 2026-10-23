@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "info",
   version: "3.0",
-  author: "Touhid",
+  author: "Mugdho",
   countDown: 0,
   role: 0,
   shortDescription: "Bot info + auto reply",
@@ -20,9 +20,9 @@ module.exports.handleEvent = async function({ api, event, message }) {
     if(body == "info" || body == "baby" || body == "bot"){
       const imgUrl = "https://i.imgur.com/yAInnf2.jpeg"; // <-- TOR PIC ER LINK
       const msg = `👶 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗩3.0 👶\n\n` +
-                  `**Name:** XS-TAOHID BOT\n` +
+                  `**Name:** Mugdho BOT\n` +
                   `**Version:** 3.0\n` +
-                  `**Author:** Touhid\n` +
+                  `**Author:** Mugdho\n` +
                   `**Status:** Online 🟢\n\n` +
                   `Ki korba sona? 🥰`;
       
