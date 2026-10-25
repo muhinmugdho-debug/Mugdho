@@ -1,4 +1,3 @@
-const MY_UID = "61573736485396";
 module.exports.config = {
     name: "chudi",
     version: "1.6",
